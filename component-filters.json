@@ -1,0 +1,65 @@
+[
+  {
+    "id": "main",
+    "components": [
+      "section"
+    ]
+  },
+  {
+    "id": "columns",
+    "components": []
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "hero",
+      "cards",
+      "test-cards",
+      "columns",
+      "hls-player",
+      "code-snippet",
+      "quote",
+      "fragment",
+      "article-cards",
+      "article-hero",
+      "article-list-hero",
+      "text-hero"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "test-cards",
+    "components": [
+      "test-card"
+    ]
+  },
+  {
+    "id": "article-cards",
+    "components": [
+      "article-card"
+    ]
+  },
+  {
+    "id": "article-hero",
+    "components": [
+    ]
+  }
+]
