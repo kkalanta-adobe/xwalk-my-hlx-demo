@@ -200,3 +200,4 @@ export default async function decorate(block) {
   // Render the block
   renderArticleListHero(block, title, articles);
 }
+

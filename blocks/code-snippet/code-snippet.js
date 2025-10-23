@@ -38,3 +38,4 @@ export default function decorate(block) {
   block.append(snippetPre);
   setUpSnippet();
 }
+
