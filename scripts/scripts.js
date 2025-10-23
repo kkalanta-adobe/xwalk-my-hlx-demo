@@ -7,7 +7,7 @@ import {
   decorateSections,
   decorateBlocks,
   decorateTemplateAndTheme,
-  waitForLCP,
+  waitForLCP, 
   loadBlocks,
   loadCSS,
 } from './aem.js';
