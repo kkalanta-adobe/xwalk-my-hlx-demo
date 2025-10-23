@@ -47,7 +47,7 @@
   {
     "id": "image",
     "fields": [
-      { 
+      {
         "component": "reference",
         "valueType": "string",
         "name": "fileReference",
